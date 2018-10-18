@@ -7,13 +7,13 @@ ____________________________________________________________________________
    N DE PONTOS NO CONTORNO, N DE PONTOS NO DOMINIO,MAX PONTOS NO SUPORTE,
 N DE CANTOS, TIPO DE APROX. P OBT. DAS FUNÇ. DE FORMA (1-LIN.,2-QUAD,3-CUB.)   
 ____________________________________________________________________________
-   68,225,25,4,5
+   68,225,25,4,2
 ____________________________________________________________________________
    N DE P. DE GAUSS, MÓDULO DE ELASTICIDADE, COEF. POISSON,Espessura,CARGA,
  N DE NOS COM VALORES PRESCRITOS # DE ZERO,PONTOS ADICIONAIS NO SUPORTE
 ____________________________________________________________________________
    
-   8,2000000.,0.3,.25,-0.64,0,3
+   8,2000000.,0.3,.05,-0.64,0,3
 ____________________________________________________________________________
    Min de pontos no suporte do Pto de Gauss, PENALIDADE,
    FATOR DE AMPLIAÇAO DO SUPORTE DE INTEGRAÇÃO
